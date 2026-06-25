@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <a rel="me" href="https://fosstodon.org/@wardaB" style="display:none;">
-  Mastodon
-</a>
+
 <img src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif" width="100"/>
   
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Warda Bibi
@@ -12,6 +10,9 @@ I am a driven computer science student delving into web development and explorin
   
 </div>
 
+<a rel="me" href="https://fosstodon.org/@wardaB" style="display:none;">
+  Mastodon
+</a>
 
 
 * ✉️  You can contact me at [wardabibi69@gmail.com](mailto:wardabibi69@gmail.com)
